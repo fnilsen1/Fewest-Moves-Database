@@ -1,0 +1,5 @@
+- [Tool to write solutions](https://www.einarkl.no/Kubing/FMC)
+- [Tool to practice DR corner recognition](https://www.einarkl.no/Kubing/Trainers/DRCorners/)
+- [Tool to learn 4c DR corners recognition](https://www.einarkl.no/Kubing/Trainers/DRCorners/4c/)
+- [Cheat sheet for HTR Subsets](https://www.einarkl.no/Kubing/Trainers/DRCorners/Help/)
+- [Tool to practice slice insertions](https://www.einarkl.no/Kubing/FMC/Slice/)
