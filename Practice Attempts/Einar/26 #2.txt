@@ -1,0 +1,12 @@
+Scramble:
+R' U' F R2 D' B' U2 B' U' F' U D2 F2 U' R2 U B2 D' R2 D F2 L F2 R' U' F
+
+L' U R F // EO
+(D U' R) // DRM
+U' R2 U B2 R2 D L // DR 0qt 0c8e
+(F2 U2) // Floppy-8e
+R2 B2 U' B2 F2 L2 R2 U L2 F2 // Finish
+
+
+Final solution:
+L' U R F U' R2 U B2 R2 D L R2 B2 U' B2 F2 L2 R2 U L2 F2 U2 F2 R' U D' (26)

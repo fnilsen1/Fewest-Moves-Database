@@ -1,0 +1,11 @@
+Scramble:
+R' U' F U' R' B2 D2 F' D2 B D2 F D2 F' D2 U2 L' B D B' L2 B' D B' R' U' F
+
+(B D2 L U2 F') // DRM
+(D F2 D' B2 U D2 F) // 2qt a 4c4e
+U' B2 R2 U // HTR
+(R2 L2 U2 B' F' D2 B' F R2) // Finish
+
+
+Final solution:
+U' B2 R2 U R2 F' B D2 F B U2 L2 R2 F' D2 U' B2 D F2 D' F U2 L' D2 B' (25)

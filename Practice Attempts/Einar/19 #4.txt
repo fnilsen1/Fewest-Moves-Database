@@ -1,0 +1,11 @@
+Scramble:
+R' U' F U2 F2 R2 D L2 R2 B2 D' B2 R2 U2 F R U2 F L' B' U2 B L' U R' U' F
+
+(F') // DR-2e3c
+(U2 D2 L' D L') // DR
+(U') // UB corners
+D' B2 L2 D2 B2 D F2 U // HTR
+F2 U2 F2 L2 // Finish
+
+Final solution:
+D' B2 L2 D2 B2 D F2 U F2 U2 F2 L2 U L D' L D2 U2 F (19)
