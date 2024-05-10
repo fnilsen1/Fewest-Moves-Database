@@ -1,0 +1,10 @@
+Scramble:
+R' U' F D2 U2 L D2 R2 D2 F2 D2 F' D' R2 B F2 R' F' L2 F2 L D2 R' U' F
+
+D2 R U' L F // DR-4e4c
+(U2 F2 U L2 U L2 U2 L) // DR 4qt 2c
+(U F2 U F2 B2 R2 D' L2 D') // HTR
+F2 R2 D2 B2 L2 U2 // Finish
+
+Final solution:
+D2 R U' L F' R2 D2 B2 L2 U2 D L2 D R2 B2 F2 U' F2 U' L' U2 L2 U' L2 U' F2 U2 (27)

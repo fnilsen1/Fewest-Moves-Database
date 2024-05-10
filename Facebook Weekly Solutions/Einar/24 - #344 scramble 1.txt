@@ -1,0 +1,13 @@
+Scramble:
+R' U' F U2 F2 R F D2 B F2 R2 B F U2 L' B2 D F' L B2 D2 U' R' U' F
+
+B' // EO-4c
+(R2 L B) // EO
+(R) // DRM-4e4c
+(D R2 B2 D2 F2 D' R) // DR 1qt 4c2e
+B2 D' F2 R2 F2 U F2 L2 U' // HTR
+R2 B2 L2 U2 // Finish
+
+
+Final solution:
+B D' F2 R2 F2 U F2 L2 U' R2 B2 L2 U2 R' D F2 D2 B2 R2 D' R' B' L' R2 (24)

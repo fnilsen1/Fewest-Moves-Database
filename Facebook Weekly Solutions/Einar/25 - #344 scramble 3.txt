@@ -1,0 +1,16 @@
+Scramble:
+R' U' F L2 B' U' B D2 R2 U F2 R2 D' R2 B2 F' L2 R' D2 B' L U R' U' F
+
+R' F D' B // EO
+(L) // DRM
+(R2 D' F2 U' D2 L) // DR 2qt a 4c6e
+(F2 U' B2 L2 R2 U') // HTR
+B' F' L2 F' B' // 2e2e
+
+Skeleton:
+R' F D' F' L2 * F' B' U R2 L2 B2 U F2 L' D2 U F2 D R2 L' (20)
+
+* L2 F2 U2 L2 U2 F2 L2 U2 // 8-3
+
+Final solution:
+R' F D' F U2 L2 U2 F2 L2 U2 F' B' U R2 L2 B2 U F2 L' D2 U F2 D R2 L' (25)
