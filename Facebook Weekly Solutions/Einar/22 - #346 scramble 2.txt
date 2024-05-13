@@ -1,0 +1,16 @@
+Scramble:
+R' U' F U' F D2 F2 R2 F' R2 F' D2 F' U2 R U2 B U2 R D' L R' D2 F R' U' F
+
+B2 L B R // DRM
+B2 L U F2 U R // DR 3qt 2c4e
+L2 D' // 2qt a 4c4e
+B2 R2 L2 U' D2 B2 R2 D' B2 // 2e2e
+
+
+Skeleton:
+B2 L B R B2 L U F2 U R L2 D' B2 R2 L2 U' * D2 B2 R2 D' B2
+
+* B2 R2 D2 B2 D2 R2 B2 D2 (8-7)
+
+Final solution:
+B2 L B R B2 L U F2 U R L2 D' B2 R2 L2 U' B2 R2 D2 B2 D B2 (22)
