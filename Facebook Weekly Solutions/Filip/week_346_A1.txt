@@ -1,0 +1,64 @@
+Scramble: R' U' F D2 B' U2 F' R2 B' F' D2 F' L U R' U2 B L2 R2 F L' U' B' R' U' F
+Inverse: F' U R B U L F' R2 L2 B' U2 R U' L' F D2 F B R2 F U2 B D2 F' U R
+
+U R L F // eo
+U' L' // DR-4e4c
+(D F2 R2 U F2 U D2 R') // DR, 4a3 4e (14)
+(D F2 U2 L2 U' R2 U) // HTR (21)
+L2 F2 L2 U2 R2 U2 D2 B' F' R2 B F D2 // FINISH (34-1)
+Put a 2e2e alg at the end to finish in time
+
+Solution:
+U R L F U' L F2 L2 U2 R2 U2 D2 B' F' R2 B F D2 U' R2 U L2 U2 F2 D' R D2 U' F2 U' R2 F2 D' (33)
+
+-------------------------------------------------------------------------------
+Notes
+
+EO F/B:
+U R L F // only EO used
+R F2 R2 F 
+R' F2 R2 F
+D' R' L' F
+R B2 L2 F 
+R' B2 L2 F 
+U2 R L U2 F
+U2 L U2 R F
+D2 L' R' D2 F 
+
+EO R/L 
+R' F D2 B 
+R' F' U2 B2 R 
+R' U2 F' B2 R
+R' F' B2 U2 R
+
+U R L F // eo
+U' L' // DR-4e4c
+D2 L2 D' L2 D R2 U R // DR, 5qt (14)
+
+(D F2 R2 U F2 U D2 R') // DR, 4a3 4e (14)
+(D F2 U2 L2 U' R2 U) // HTR (21) optimal HTR
+L2 F2 L2 U2 R2 U2 B2 // 2e2e (28-1)
+
+Insertion finder:
+U R L F U' L F2 L2 U2 R2 U2 B2 U' R2 U L2 😇 U2 F2 D' R U' D2 F2 U' R2 F2 D' (29)
+😇: F2 U2 F2 U2 F2 U2 (6-4)
+
+U R L F' // eo
+D R // DR-4e4c
+D' R2 U' D R2 D' L // DR, 2c4 4e (13)
+Can be turned into 2c4 by HTR-ing 4e
+
+-------------------------------------------------------------------------------
+Analysis
+D2 L2 D' L2 D R2 U R // DR, 5qt (14)
+15 optimal
+
+D' R2 U' D R2 D' L // DR, 2c4 4e (13)
+14 optimal
+
+(D F2 R2 U F2 U D2 R') // DR, 4a3 4e (14)
+14 optimal
+
+(D F2 U2 L2 U' R2 U) // HTR (21) optimal HTR
+11 move finish
+9 moves to slice
