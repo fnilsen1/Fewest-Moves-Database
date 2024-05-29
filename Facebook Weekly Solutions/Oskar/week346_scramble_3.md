@@ -16,8 +16,9 @@ U F                                 // eo   (2/2)
 
 * B2 L2 R2 F2 D F2 R2 L2 B2 U'      // 2e2e (10-3/32)
 
-U F D2 R2 U' D2 B2 L2 R2 F2 D' F2 R2 L2 D' F2 L2 U2 L2 U B2 U L U L2 D2 U L2 R2 U2 R2 F2 (32)
 ```
+
+`U F D2 R2 U' D2 B2 L2 R2 F2 D' F2 R2 L2 D' F2 L2 U2 L2 U B2 U L U L2 D2 U L2 R2 U2 R2 F2 (32)`
 
 ### In hindseight
 

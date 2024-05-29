@@ -57,7 +57,7 @@ also I did not have enough time to niss the DRM's I found.
 
 ### Solution
 
-**DNF**
+`(DNF)`
 
 ### In hindseight
 - 20 minutes is not a lot of time to solve 5qt dr.

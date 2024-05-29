@@ -86,8 +86,9 @@ R (F2 D2 L U2 L')               // htr      (6/19)
 * F2 U2 R2 F2 R2 U2 F2 + R2     // 2e2e     (8-4/25)
 + F2 U2 D2 B2 U2 D2             // 2e2e     (6-4/27)
 
-D' R' B L2 D L' U2 R2 U2 L U' R U R D2 U2 B2 D2 R2 F2 R2 U2 L U2 L' D2 F2 (27)
 ```
+
+`D' R' B L2 D L' U2 R2 U2 L U' R U R D2 U2 B2 D2 R2 F2 R2 U2 L U2 L' D2 F2 (27)`
 
 ### In hindseight
 - finding a decent skeleton early is nice
