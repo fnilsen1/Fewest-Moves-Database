@@ -1,5 +1,3 @@
-# Week 346
-
 ## Scramble 1
 
 ```
@@ -42,7 +40,7 @@ eo  DRM         moves to dr                     moves   case
 2.  U' L        D' R2 U L2 U' L2 U R                    4q2c4e
 3.  L           D R2 B2 D F2 D B2 D L                   5q4cXe
     U
-4.  R           U2 R2 D L2 D2 L2 R2 U D2 L2 D2          4q... 
+4.  R           U2 R2 D L2 D2 L2 R2 U D2 L2 D2          4q...
 5.  L
 6.  R
 7.  R
@@ -59,32 +57,9 @@ also I did not have enough time to niss the DRM's I found.
 
 ### Solution
 
-**DNF**
+`(DNF)`
 
 ### In hindseight
 - 20 minutes is not a lot of time to solve 5qt dr.
 - should probably try to finish some of the drs earlier to have a backup solution.
 - need to practice solving htrs efficiently
-
-## Scramble 2
-```
-R' U' F U' F D2 F2 R2 F' R2 F' D2 F' U2 R U2 B U2 R D' L R' D2 F R' U' F
-```
-
-### Attempt
-
-### Solution
-
-### In hindseight
-
-## Scramble 3
-
-```
-R' U' F U' R D2 R F' R D' R B2 D2 L2 D2 R F2 D2 F U' B U R' U' F
-```
-
-### Attempt
-
-### Solution
-
-### In hindseight
